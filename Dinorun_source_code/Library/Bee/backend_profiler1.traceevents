@@ -1,0 +1,642 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1660841812392452, "dur":1726, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660841812394187, "dur":1664, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1660841812395861, "dur":13, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1660841812395875, "dur":1443, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1660841812397409, "dur":507, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660841812397916, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660841813093513, "dur":149, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660841813093662, "dur":21, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660841813093683, "dur":110, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660841813093793, "dur":24, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660841813093817, "dur":14, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660841813093831, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660841813093837, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660841813093839, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660841813093844, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660841813093846, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660841813093850, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660841813093851, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660841813093855, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660841813093856, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660841813093861, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660841813093862, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660841813093866, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660841813093867, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660841813093872, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660841813093873, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660841813093877, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660841813093878, "dur":37, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660841813093915, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660841813093916, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660841813093923, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660841813093924, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660841813093928, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660841813093930, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660841813093934, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660841813093935, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660841813093940, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660841813093941, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660841813093945, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660841813093959, "dur":1, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660841813093961, "dur":1646, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1660841812396735, "dur":1188, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1660841812397925, "dur":4653, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1660841812402591, "dur":0, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1660841812402600, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1660841812403505, "dur":385, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1660841812403893, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1660841812403954, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1660841812404446, "dur":3131, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1660841812407579, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":1, "ts":1660841812407649, "dur":41, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1660841812407694, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1660841812407708, "dur":1089, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":1, "ts":1660841812408860, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":1, "ts":1660841812408927, "dur":44, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1660841812408975, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1660841812408980, "dur":126783, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":1, "ts":1660841812535846, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1660841812535937, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1660841812536004, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1660841812536012, "dur":48820, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1660841812584904, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1660841812584972, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1660841812585028, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1660841812585036, "dur":80080, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1660841812665208, "dur":143, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1660841812665351, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1660841812665413, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1660841812665420, "dur":44522, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1660841812710035, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1660841812710107, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1660841812710202, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1660841812710214, "dur":38944, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1660841812749236, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1660841812749302, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1660841812749359, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1660841812749366, "dur":33810, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1660841812783240, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":1, "ts":1660841812783312, "dur":49, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1660841812783366, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1660841812783374, "dur":156574, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":1, "ts":1660841812940017, "dur":153548, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1660841812396769, "dur":1159, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1660841812397928, "dur":4659, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1660841812402591, "dur":325, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1660841812402917, "dur":124, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1660841812403045, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1660841812424198, "dur":111996, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1660841812536430, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1660841812536533, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1660841812536613, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1660841812536620, "dur":48831, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1660841812585518, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1660841812585582, "dur":48, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1660841812585635, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1660841812585644, "dur":78697, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1660841812665191, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1660841812665262, "dur":374, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1660841812665642, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1660841812665649, "dur":55384, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1660841812721170, "dur":156, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1660841812721326, "dur":1601, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1660841812722933, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1660841812722941, "dur":34290, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1660841812757303, "dur":68481, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1660841812825785, "dur":118, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1660841812825911, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1660841812825923, "dur":1522, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1660841812827505, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":2, "ts":1660841812827565, "dur":46, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1660841812827616, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1660841812827626, "dur":95209, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":2, "ts":1660841812922908, "dur":170679, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1660841812396789, "dur":1145, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1660841812397934, "dur":4651, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1660841812402590, "dur":181, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1660841812402771, "dur":102, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1660841812402879, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1660841812407610, "dur":1029, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1660841812408714, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":3, "ts":1660841812408778, "dur":34, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1660841812408817, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1660841812408919, "dur":126860, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":3, "ts":1660841812535859, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1660841812535965, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1660841812536032, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1660841812536039, "dur":45815, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1660841812581931, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1660841812582014, "dur":124, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1660841812582144, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1660841812582154, "dur":44739, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1660841812626972, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1660841812627043, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1660841812627108, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1660841812627118, "dur":56468, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1660841812683660, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1660841812683726, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1660841812683782, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1660841812683792, "dur":70374, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1660841812754288, "dur":75760, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":3, "ts":1660841812830049, "dur":84, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1660841812830141, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1660841812830152, "dur":1412, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":3, "ts":1660841812831635, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":3, "ts":1660841812831702, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1660841812831760, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1660841812831769, "dur":45602, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":3, "ts":1660841812877442, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":3, "ts":1660841812877504, "dur":49, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1660841812877557, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1660841812877600, "dur":46545, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":3, "ts":1660841812924211, "dur":169368, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1660841812396832, "dur":1110, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1660841812397943, "dur":4641, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1660841812402591, "dur":293, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1660841812402884, "dur":143, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1660841812403030, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1660841812535104, "dur":1882, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1660841812537099, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1660841812537195, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1660841812537294, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1660841812537305, "dur":125592, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1660841812663043, "dur":317, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1660841812663360, "dur":90, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1660841812663455, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1660841812663495, "dur":74566, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1660841812738131, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1660841812738241, "dur":49, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1660841812738301, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1660841812738308, "dur":83770, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1660841812822142, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":4, "ts":1660841812822204, "dur":48, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1660841812822258, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1660841812822267, "dur":54936, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":4, "ts":1660841812877463, "dur":373, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":4, "ts":1660841812877836, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1660841812877891, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1660841812877898, "dur":215520, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":4, "ts":1660841813093463, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":4, "ts":1660841813093464, "dur":1, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1660841812396861, "dur":1086, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1660841812397947, "dur":4748, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1660841812402695, "dur":219, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1660841812402914, "dur":136, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1660841812403054, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1660841812424758, "dur":111640, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1660841812540357, "dur":159, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1660841812540517, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1660841812540591, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1660841812540604, "dur":112671, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1660841812653755, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1660841812653829, "dur":8134, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1660841812661975, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1660841812661989, "dur":52373, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1660841812714471, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":5, "ts":1660841812714548, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1660841812714614, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1660841812714625, "dur":82324, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":5, "ts":1660841812797013, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":5, "ts":1660841812797077, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1660841812797238, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1660841812797264, "dur":72815, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":5, "ts":1660841812870151, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":5, "ts":1660841812870220, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1660841812870279, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1660841812870289, "dur":97446, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":5, "ts":1660841812967804, "dur":125741, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1660841812396892, "dur":1061, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1660841812397953, "dur":4734, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1660841812402690, "dur":150, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1660841812402841, "dur":95, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1660841812402986, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1660841812417276, "dur":118861, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1660841812536243, "dur":213, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1660841812536456, "dur":194, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1660841812536811, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1660841812536819, "dur":40574, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1660841812577490, "dur":141927, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1660841812719418, "dur":200, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1660841812719666, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1660841812719680, "dur":2309, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1660841812722052, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1660841812722116, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1660841812722173, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1660841812722182, "dur":26874, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1660841812749125, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1660841812749191, "dur":49, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1660841812749245, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1660841812749255, "dur":122268, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1660841812871589, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":6, "ts":1660841812871654, "dur":45, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1660841812871704, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1660841812871713, "dur":91391, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":6, "ts":1660841812963149, "dur":130409, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1660841812396930, "dur":1030, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1660841812397960, "dur":4713, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1660841812402678, "dur":177, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1660841812402855, "dur":162, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1660841812403021, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1660841812419453, "dur":116735, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1660841812536423, "dur":110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1660841812536534, "dur":92, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1660841812536630, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1660841812536638, "dur":34533, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1660841812571243, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1660841812571320, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1660841812571390, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1660841812571400, "dur":124744, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1660841812696234, "dur":75, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1660841812696309, "dur":279, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1660841812696595, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1660841812696606, "dur":82743, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1660841812779423, "dur":75, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1660841812779498, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1660841812779557, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1660841812779567, "dur":57884, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1660841812837514, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":7, "ts":1660841812837580, "dur":48, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1660841812837632, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1660841812837642, "dur":173387, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":7, "ts":1660841813011073, "dur":82454, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1660841812396963, "dur":1002, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1660841812397965, "dur":4669, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1660841812402639, "dur":217, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1660841812402856, "dur":142, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1660841812403002, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1660841812418933, "dur":117743, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1660841812536887, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1660841812536976, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1660841812537042, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1660841812537050, "dur":86552, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1660841812623693, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1660841812623764, "dur":45, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1660841812623815, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1660841812623825, "dur":22646, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1660841812646544, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1660841812646608, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1660841812646667, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1660841812646677, "dur":50645, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1660841812697402, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1660841812697502, "dur":136, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1660841812697644, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1660841812697655, "dur":23590, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1660841812722546, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1660841812722620, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1660841812722676, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1660841812722686, "dur":41810, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1660841812764565, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1660841812764665, "dur":78, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1660841812764749, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1660841812764760, "dur":70196, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1660841812835028, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":8, "ts":1660841812835094, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1660841812835151, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1660841812835162, "dur":159595, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":8, "ts":1660841812994829, "dur":98705, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1660841812397007, "dur":962, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1660841812397969, "dur":4685, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1660841812402659, "dur":172, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":9, "ts":1660841812402832, "dur":125, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1660841812402989, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1660841812418464, "dur":118444, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":9, "ts":1660841812536985, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1660841812537089, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1660841812537147, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1660841812537153, "dur":17814, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1660841812555031, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1660841812555090, "dur":48, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1660841812555144, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1660841812555155, "dur":29128, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1660841812584366, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1660841812584444, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1660841812584543, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1660841812584556, "dur":81660, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1660841812666280, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1660841812666350, "dur":47, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1660841812666402, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1660841812666411, "dur":48633, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1660841812715105, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1660841812715166, "dur":42, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1660841812715212, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1660841812715219, "dur":105460, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1660841812820746, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":9, "ts":1660841812820808, "dur":49, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1660841812820862, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1660841812820871, "dur":69898, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":9, "ts":1660841812890833, "dur":866, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":9, "ts":1660841812891700, "dur":71, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1660841812891777, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1660841812891788, "dur":1141, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":9, "ts":1660841812892992, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":9, "ts":1660841812893058, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1660841812893135, "dur":1300, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":9, "ts":1660841812894496, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/sharedassets2.resource" }}
+,{ "pid":12345, "tid":9, "ts":1660841812894563, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1660841812894570, "dur":1205, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/sharedassets2.resource" }}
+,{ "pid":12345, "tid":9, "ts":1660841812895834, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":9, "ts":1660841812895896, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1660841812895902, "dur":1025, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":9, "ts":1660841812896985, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":9, "ts":1660841812897047, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1660841812897053, "dur":1008, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":9, "ts":1660841812898118, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":9, "ts":1660841812898213, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1660841812898219, "dur":1791, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":9, "ts":1660841812900068, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":9, "ts":1660841812900131, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1660841812900138, "dur":1033, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":9, "ts":1660841812901228, "dur":936, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":9, "ts":1660841812902164, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1660841812902227, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1660841812902233, "dur":1057, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":9, "ts":1660841812903361, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/resources.assets" }}
+,{ "pid":12345, "tid":9, "ts":1660841812903426, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1660841812903432, "dur":1430, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/resources.assets" }}
+,{ "pid":12345, "tid":9, "ts":1660841812904925, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/level2" }}
+,{ "pid":12345, "tid":9, "ts":1660841812904995, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1660841812905003, "dur":1256, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/level2" }}
+,{ "pid":12345, "tid":9, "ts":1660841812906329, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/level0" }}
+,{ "pid":12345, "tid":9, "ts":1660841812906405, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1660841812906411, "dur":1486, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/level0" }}
+,{ "pid":12345, "tid":9, "ts":1660841812907957, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":9, "ts":1660841812908058, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1660841812908067, "dur":1120, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":9, "ts":1660841812909263, "dur":184258, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1660841812397045, "dur":929, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1660841812397974, "dur":4690, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1660841812402667, "dur":136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":10, "ts":1660841812402804, "dur":84, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1660841812402893, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1660841812412189, "dur":123231, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":10, "ts":1660841812535510, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1660841812535624, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1660841812535699, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1660841812535868, "dur":51840, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1660841812587770, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1660841812587833, "dur":46, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1660841812587884, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1660841812587894, "dur":76802, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1660841812664790, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1660841812664856, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1660841812664917, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1660841812664924, "dur":50101, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1660841812715090, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1660841812715154, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1660841812715211, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1660841812715219, "dur":22361, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1660841812737649, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1660841812737720, "dur":49, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1660841812737775, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1660841812737785, "dur":43784, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1660841812781694, "dur":174, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":10, "ts":1660841812781869, "dur":143, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1660841812782016, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1660841812782022, "dur":127837, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":10, "ts":1660841812909917, "dur":183593, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1660841812397077, "dur":902, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1660841812397979, "dur":4665, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1660841812402647, "dur":148, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1660841812402795, "dur":110, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1660841812402912, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1660841812412505, "dur":124314, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1660841812536908, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1660841812536999, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1660841812537073, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1660841812537080, "dur":20866, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1660841812558030, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1660841812558114, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1660841812558265, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1660841812558275, "dur":65460, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1660841812623798, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1660841812623859, "dur":48, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1660841812623912, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1660841812623918, "dur":39132, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1660841812663146, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1660841812663266, "dur":119, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1660841812663391, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1660841812663401, "dur":34159, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1660841812697630, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1660841812697695, "dur":120, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1660841812697820, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1660841812697827, "dur":27124, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1660841812725032, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1660841812725107, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1660841812725164, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1660841812725174, "dur":56310, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1660841812781625, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":11, "ts":1660841812781750, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1660841812781814, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1660841812781824, "dur":103477, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":11, "ts":1660841812885370, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":11, "ts":1660841812885432, "dur":45, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1660841812885482, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1660841812885491, "dur":144382, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":11, "ts":1660841813029925, "dur":63597, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1660841812397114, "dur":869, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1660841812397983, "dur":4639, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1660841812402626, "dur":260, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":12, "ts":1660841812402887, "dur":139, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1660841812403030, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1660841812423523, "dur":113645, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":12, "ts":1660841812553219, "dur":117, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1660841812553337, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1660841812553406, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1660841812553417, "dur":143866, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1660841812697567, "dur":168, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1660841812697735, "dur":89, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1660841812697829, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1660841812697836, "dur":74380, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1660841812772350, "dur":68495, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":12, "ts":1660841812840846, "dur":120, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1660841812840975, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1660841812840985, "dur":2565, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":12, "ts":1660841812843640, "dur":368, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":12, "ts":1660841812844008, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1660841812844072, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1660841812844082, "dur":138832, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":12, "ts":1660841812982961, "dur":110579, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1660841812397143, "dur":844, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1660841812397988, "dur":4624, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1660841812402616, "dur":140, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":13, "ts":1660841812402756, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1660841812402829, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1660841812405174, "dur":1250, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":13, "ts":1660841812406471, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":13, "ts":1660841812406518, "dur":41, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1660841812406585, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1660841812407130, "dur":1054, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":13, "ts":1660841812408253, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":13, "ts":1660841812408319, "dur":47, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1660841812408371, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1660841812408378, "dur":1770, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":13, "ts":1660841812410222, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":13, "ts":1660841812410282, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1660841812410337, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1660841812410345, "dur":2477, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":13, "ts":1660841812412907, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":13, "ts":1660841812413000, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1660841812413078, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1660841812413452, "dur":124750, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":13, "ts":1660841812538269, "dur":75, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1660841812538345, "dur":47, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1660841812538397, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1660841812538405, "dur":48505, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1660841812586973, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1660841812587039, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1660841812587101, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1660841812587112, "dur":110895, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1660841812698078, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1660841812698147, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1660841812698218, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1660841812698224, "dur":54525, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1660841812752840, "dur":91606, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":13, "ts":1660841812844446, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1660841812844518, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1660841812844525, "dur":1238, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":13, "ts":1660841812845830, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":13, "ts":1660841812845894, "dur":48, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1660841812845947, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1660841812845955, "dur":48618, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":13, "ts":1660841812894641, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":13, "ts":1660841812894774, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1660841812894780, "dur":1439, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":13, "ts":1660841812896277, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":13, "ts":1660841812896384, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1660841812896389, "dur":1046, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":13, "ts":1660841812897507, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":13, "ts":1660841812897567, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1660841812897573, "dur":1296, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":13, "ts":1660841812898927, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":13, "ts":1660841812898988, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1660841812898999, "dur":1644, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":13, "ts":1660841812900700, "dur":232, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":13, "ts":1660841812900932, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1660841812901000, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1660841812901006, "dur":994, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":13, "ts":1660841812902054, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":13, "ts":1660841812902116, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1660841812902122, "dur":2963, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":13, "ts":1660841812905145, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/level1" }}
+,{ "pid":12345, "tid":13, "ts":1660841812905208, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1660841812905215, "dur":1201, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/level1" }}
+,{ "pid":12345, "tid":13, "ts":1660841812906498, "dur":75, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":13, "ts":1660841812906579, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1660841812906584, "dur":1701, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":13, "ts":1660841812908364, "dur":240, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/boot.config" }}
+,{ "pid":12345, "tid":13, "ts":1660841812908604, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1660841812908668, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1660841812908674, "dur":1242, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/boot.config" }}
+,{ "pid":12345, "tid":13, "ts":1660841812909975, "dur":183536, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1660841812397188, "dur":804, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1660841812397992, "dur":4603, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1660841812402598, "dur":208, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":14, "ts":1660841812402806, "dur":105, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1660841812402917, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1660841812416699, "dur":119520, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":14, "ts":1660841812536439, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1660841812536536, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1660841812536619, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1660841812536626, "dur":21406, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1660841812558110, "dur":75, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1660841812558185, "dur":48, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1660841812558270, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1660841812558278, "dur":40718, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1660841812599067, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1660841812599134, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1660841812599217, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1660841812599227, "dur":64391, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1660841812663693, "dur":171, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1660841812663864, "dur":79, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1660841812663948, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1660841812663955, "dur":50903, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1660841812714922, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1660841812714987, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1660841812715045, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1660841812715054, "dur":22584, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1660841812737720, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1660841812737793, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1660841812737864, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1660841812737871, "dur":39712, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1660841812777654, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":14, "ts":1660841812777717, "dur":49, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1660841812777771, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1660841812777781, "dur":229940, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":14, "ts":1660841813007765, "dur":85750, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1660841812397264, "dur":732, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1660841812397996, "dur":4606, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1660841812402606, "dur":185, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":15, "ts":1660841812402791, "dur":190, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1660841812402986, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1660841812417950, "dur":118879, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":15, "ts":1660841812536916, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1660841812537000, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1660841812537065, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1660841812537073, "dur":57644, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1660841812594800, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1660841812594872, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1660841812594939, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1660841812594949, "dur":69199, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1660841812664290, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1660841812664374, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1660841812664432, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1660841812664439, "dur":34102, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1660841812698612, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1660841812698681, "dur":1198, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1660841812699888, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1660841812699899, "dur":75938, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1660841812775904, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":15, "ts":1660841812775966, "dur":47, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1660841812776018, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1660841812776028, "dur":75638, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":15, "ts":1660841812851737, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":15, "ts":1660841812851799, "dur":46, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1660841812851850, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1660841812851859, "dur":110986, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":15, "ts":1660841812962929, "dur":130622, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1660841812397353, "dur":647, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1660841812398001, "dur":4588, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1660841812402593, "dur":169, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":16, "ts":1660841812402762, "dur":92, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1660841812402861, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1660841812407150, "dur":1071, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":16, "ts":1660841812408282, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":16, "ts":1660841812408339, "dur":48, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1660841812408390, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1660841812408605, "dur":1621, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":16, "ts":1660841812410296, "dur":684, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun.exe" }}
+,{ "pid":12345, "tid":16, "ts":1660841812410981, "dur":248, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1660841812411237, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1660841812411246, "dur":1868, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun.exe" }}
+,{ "pid":12345, "tid":16, "ts":1660841812413174, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1660841812413253, "dur":130, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1660841812413388, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1660841812413643, "dur":122556, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1660841812536427, "dur":216, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1660841812536643, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1660841812536720, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1660841812536727, "dur":46303, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1660841812583089, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1660841812583152, "dur":45, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1660841812583203, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1660841812583211, "dur":40612, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1660841812623899, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1660841812623967, "dur":48, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1660841812624020, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1660841812624027, "dur":41079, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1660841812665170, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1660841812665249, "dur":104, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1660841812665358, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1660841812665399, "dur":83851, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1660841812749327, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1660841812749391, "dur":45, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1660841812749475, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1660841812749482, "dur":25069, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1660841812774619, "dur":175708, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":16, "ts":1660841812950328, "dur":264, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1660841812950598, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1660841812950606, "dur":1757, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/heaon/Desktop/Folder/Data/DinoRun/DinoRun/DinoRun_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":16, "ts":1660841812952427, "dur":141144, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1660841813097148, "dur":1774, "ph":"X", "name": "ProfilerWriteOutput" }
+,
