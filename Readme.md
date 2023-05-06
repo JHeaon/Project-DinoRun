@@ -2,14 +2,11 @@
 
 This project is conducted to study C# and Unity.
 
-<br>
-
 ## Stack
 
 - Unity
 - C#
 
-<br>
 
 ## How to play
 
@@ -19,11 +16,9 @@ You can run this game throught the file path below.
 Dinorun_play/DinoRun.exe
 ```
 
-<br>
 
 ## Game Play
 
-<br>
 
 <div align="center">
     <img src = "Readme_img/img_1.png" style="width:400px">
@@ -31,7 +26,6 @@ Dinorun_play/DinoRun.exe
     <img src = "Readme_img/img_3.png" style="width:400px">
 </div>
 
-<br>
 
 ## Use Game Source
 
@@ -40,4 +34,3 @@ Dinorun_play/DinoRun.exe
 - Background Music : https://bgmstore.net/
 - Sound Effect : https://www.youtube.com/shorts/gNpmzpJ4Ro0
 
-<br>
