@@ -1,6 +1,6 @@
 ## Dinorun
 
-This project is conducted to study C# and Unity. <br>
+This project is conducted to study C# and Unity.
 
 <br>
 
@@ -8,6 +8,28 @@ This project is conducted to study C# and Unity. <br>
 
 - Unity
 - C#
+
+<br>
+
+## How to play
+
+You can run this game throught the file path below.
+
+```
+Dinorun_play/DinoRun.exe
+```
+
+<br>
+
+## Game Play
+
+<br>
+
+<div align="center">
+    <img src = "Readme_img/img_1.png" style="width:400px">
+    <img src = "Readme_img/img_2.png" style="width:400px">
+    <img src = "Readme_img/img_3.png" style="width:400px">
+</div>
 
 <br>
 
@@ -19,11 +41,3 @@ This project is conducted to study C# and Unity. <br>
 - Sound Effect : https://www.youtube.com/shorts/gNpmzpJ4Ro0
 
 <br>
-
-## Play
-
-You can run this game throught the file path below.
-
-```
-Dinorun_play/DinoRun.exe
-```
